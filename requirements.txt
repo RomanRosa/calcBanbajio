@@ -1,0 +1,17 @@
+pandas
+numpy
+streamlit
+seaborn
+matplotlib
+scipy
+#SQLAlchemy
+#psycopg2-binary
+python-dotenv
+pytest
+pytest-cov
+pyyaml
+openpyxl
+numpy-financial
+pytz
+xlsxwriter
+toml
