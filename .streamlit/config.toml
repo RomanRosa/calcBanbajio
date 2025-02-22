@@ -1,0 +1,8 @@
+[server]
+enableCORS = true
+enableXsrfProtection = true
+gatherUsageStats = false
+port = 8504
+
+[global]
+#disableWatchdogWarning = true
