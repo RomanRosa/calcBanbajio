@@ -1,1 +1,0 @@
-# Documentation - Module Logging Formatter
